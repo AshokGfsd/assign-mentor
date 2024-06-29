@@ -92,7 +92,7 @@ endpoint:/students/previousMentors/:id
 
 # Deployed URL
 
-
+https://assign-mentor-cpme.onrender.com/
 
 # POSTMAN DOCUMENT URL
 
